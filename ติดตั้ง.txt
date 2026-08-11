@@ -1,0 +1,12 @@
+npx create-next-app@latest yth-queue-display
+npm install drizzle-orm mysql2
+npm install socket.io socket.io-client
+npm install zod axios
+npm install lucide-react
+npm install dayjs
+npm install clsx tailwind-merge
+npm install dotenv
+
+npm install -D drizzle-kit
+npm install -D tsx concurrently
+npm install -D @types/node
